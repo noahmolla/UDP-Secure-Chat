@@ -1,4 +1,4 @@
-# COMPE 560 Secure UDP Chat Application
+# COMPE 560 Secure UDP Chat Application - Undergraduate Student
 
 ## Overview
 
